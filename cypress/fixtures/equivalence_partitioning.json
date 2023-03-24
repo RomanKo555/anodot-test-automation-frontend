@@ -1,0 +1,10 @@
+[
+    {"_comment": "Check equivalence partitioning for all degree type for example in Celsius: -5, 5"},
+    {
+    "input": "-5",
+    "from": "degree Celsius",
+    "to": "degree Celsius",
+    "answer": "-5"
+    },
+    {"_comment": "To be Done"}
+]

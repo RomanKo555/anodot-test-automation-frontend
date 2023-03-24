@@ -1,0 +1,151 @@
+[{
+    "input": "0",
+    "from": "degree Celsius",
+    "to": "degree Celsius",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "degree Celsius",
+    "to": "degree Fahrenheit",
+    "answer": "32"
+},
+{
+    "input": "0",
+    "from": "degree Celsius",
+    "to": "kelvin",
+    "answer": "273.15"
+},
+{
+    "input": "0",
+    "from": "degree Celsius",
+    "to": "degree Rankine",
+    "answer": "491.67"
+},
+{
+    "input": "0",
+    "from": "degree Celsius",
+    "to": "degree Reaumur",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "degree Fahrenheit",
+    "to": "degree Celsius",
+    "answer": "-17.7777778"
+},
+{
+    "input": "0",
+    "from": "degree Fahrenheit",
+    "to": "degree Fahrenheit",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "degree Fahrenheit",
+    "to": "kelvin",
+    "answer": "255.3722222"
+},
+{
+    "input": "0",
+    "from": "degree Fahrenheit",
+    "to": "degree Rankine",
+    "answer": "459.67"
+},
+{
+    "input": "0",
+    "from": "degree Fahrenheit",
+    "to": "degree Reaumur",
+    "answer": "-14.2222222"
+},
+{
+    "input": "0",
+    "from": "kelvin",
+    "to": "degree Celsius",
+    "answer": "-273.15"
+},
+{
+    "input": "0",
+    "from": "kelvin",
+    "to": "degree Fahrenheit",
+    "answer": "-459.67"
+},
+{
+    "input": "0",
+    "from": "kelvin",
+    "to": "kelvin",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "kelvin",
+    "to": "degree Rankine",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "kelvin",
+    "to": "degree Reaumur",
+    "answer": "-218.52"
+},
+{
+    "input": "0",
+    "from": "degree Rankine",
+    "to": "degree Celsius",
+    "answer": "-273.15"
+},
+{
+    "input": "0",
+    "from": "degree Rankine",
+    "to": "degree Fahrenheit",
+    "answer": "-459.67"
+},
+{
+    "input": "0",
+    "from": "degree Rankine",
+    "to": "kelvin",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "degree Rankine",
+    "to": "degree Rankine",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "degree Rankine",
+    "to": "degree Reaumur",
+    "answer": "-218.52"
+},
+{
+    "input": "0",
+    "from": "degree Reaumur",
+    "to": "degree Celsius",
+    "answer": "0"
+},
+{
+    "input": "0",
+    "from": "degree Reaumur",
+    "to": "degree Fahrenheit",
+    "answer": "32"
+},
+{
+    "input": "0",
+    "from": "degree Reaumur",
+    "to": "kelvin",
+    "answer": "273.15"
+},
+{
+    "input": "0",
+    "from": "degree Reaumur",
+    "to": "degree Rankine",
+    "answer": "491.67"
+},
+{
+    "input": "0",
+    "from": "degree Reaumur",
+    "to": "degree Reaumur",
+    "answer": "0"
+}
+]  

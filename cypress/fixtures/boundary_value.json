@@ -1,0 +1,17 @@
+
+[
+    {"_comment": "Check boundary values for all degree type for example in Celsius: -273.16, -273.15, -0.0000001, 0.0000001, 10^12"},
+    {
+    "input": "-274",
+    "from": "degree Celsius",
+    "to": "degree Celsius",
+    "answer": "Error: Your input cannot be below absolute zero"
+    },
+    {
+        "input": "-459.4",
+        "from": "degree Fahrenheit",
+        "to": "degree Fahrenheit",
+        "answer": "Error: Your input cannot be below absolute zero"
+    },
+    {"_comment": "To be Done"}
+]

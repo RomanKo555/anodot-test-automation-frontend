@@ -1,0 +1,24 @@
+Introduction:
+The following is a test plan for testing the functionality of the temperature conversion feature on the website https://www.theonlineconverter.co.uk/temperature-converter. The purpose of this test plan is to ensure that the website accurately converts temperatures and produces correct results for its users.
+
+Scope:
+This test plan is focused only e2e tests
+
+Testing method:
+Data driven testing
+
+Testing Environment:
+The testing environment will consist of a web browser (Chrome, Firefox, Edge)
+
+Feature to be tested:
+This includes the ability to convert temperatures from Celsius, Fahrenheit, Kelvin, Reaumur, Rankine to Celsius, Fahrenheit, Kelvin, Reaumur, Rankine.
+25 tests per value
+
+Test Design techniques:
+Error Guessing: value: 0 - implemented as example
+Boundary value analysis: values in Celsius: -273.16, -273.15, -0.0000001, 0.0000001, 10^12" (need convert for other degree types)
+Equivalence partitioning: values: -5, 5
+
+Tests should be added in the future:
+1) static testing to verify such issues like incorrect format, typo, etc "degree Celsius vs kelvin"
+2) check other elements on the page (menu, text, logo, links, Share button)

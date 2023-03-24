@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+venv3/
+venv/
+.env
+node_modules/

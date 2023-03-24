@@ -1,0 +1,19 @@
+{
+  "name": "anodot-test-automation-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKo555/anodot-test-automation-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKo555/anodot-test-automation-frontend/issues"
+  },
+  "homepage": "https://github.com/RomanKo555/anodot-test-automation-frontend#readme"
+}
